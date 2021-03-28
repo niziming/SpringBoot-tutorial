@@ -1,5 +1,0 @@
-# 测试环境
-server:
-  port: 9300
-  servlet:
-    context-path: /springboot
