@@ -1,0 +1,30 @@
+# 激活环境
+spring:
+  profiles:
+    active: prod
+# mvc配置
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://128.0.42.6:3306/easy?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8
+    username: root
+    password: 123456
+#  redis配置
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+
+mybatis:
+  # 这个配置只有接口和映
+  # 射文件不在同一个包的情况下，才需要指定
+  mapper-locations: classpath:mapper/*.xml
+
+
+# 测试ConfigurationProperties
+school:
+  name: abc
+  website: http://www.baidu.com

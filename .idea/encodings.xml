@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/001-springboot-firs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-springboot-custom-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-springboot-custom-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-springboot-web-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/011-springboot-web-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/012-springboot-web-mybatis-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/013-springboot-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/016-springboot-redis/src/main/java" charset="UTF-8" />
+  </component>
+</project>

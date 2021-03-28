@@ -1,0 +1,8 @@
+# 激活环境
+spring:
+  profiles:
+    active: prod
+
+school:
+  name: abc
+  website: http://www.baidu.com
