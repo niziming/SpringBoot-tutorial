@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itcast/001-springboot-firs/001-springboot-firs.iml" filepath="$PROJECT_DIR$/itcast/001-springboot-firs/001-springboot-firs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/002-springboot-springmvc/002-springboot-springmvc.iml" filepath="$PROJECT_DIR$/itcast/002-springboot-springmvc/002-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/007-springboot-custom-configuration/007-springboot-custom-configuration.iml" filepath="$PROJECT_DIR$/itcast/007-springboot-custom-configuration/007-springboot-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/008-springboot-custom-configuration/008-springboot-custom-configuration.iml" filepath="$PROJECT_DIR$/itcast/008-springboot-custom-configuration/008-springboot-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/009-springboot-jsp/009-springboot-jsp.iml" filepath="$PROJECT_DIR$/itcast/009-springboot-jsp/009-springboot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuang-study/01-hello-springboot/01-hello-springboot.iml" filepath="$PROJECT_DIR$/kuang-study/01-hello-springboot/01-hello-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/010-springboot-web-mybatis/010-springboot-web-mybatis.iml" filepath="$PROJECT_DIR$/itcast/010-springboot-web-mybatis/010-springboot-web-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/011-springboot-web-mybatis/011-springboot-web-mybatis.iml" filepath="$PROJECT_DIR$/itcast/011-springboot-web-mybatis/011-springboot-web-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/012-springboot-web-mybatis-transaction/012-springboot-web-mybatis-transaction.iml" filepath="$PROJECT_DIR$/itcast/012-springboot-web-mybatis-transaction/012-springboot-web-mybatis-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/013-springboot-springmvc/013-springboot-springmvc.iml" filepath="$PROJECT_DIR$/itcast/013-springboot-springmvc/013-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/016-springboot-redis/016-springboot-redis.iml" filepath="$PROJECT_DIR$/itcast/016-springboot-redis/016-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuang-study/02-configration-yaml/02-configration-yaml.iml" filepath="$PROJECT_DIR$/kuang-study/02-configration-yaml/02-configration-yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-tutorial.iml" filepath="$PROJECT_DIR$/SpringBoot-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast/itcast.iml" filepath="$PROJECT_DIR$/itcast/itcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuang-study/kuang-study.iml" filepath="$PROJECT_DIR$/kuang-study/kuang-study.iml" />
+    </modules>
+  </component>
+</project>

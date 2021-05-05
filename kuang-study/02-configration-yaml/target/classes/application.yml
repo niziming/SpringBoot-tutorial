@@ -1,0 +1,32 @@
+server:
+  port: 8081
+#knife4j:
+#  自定义文档
+#  markdowns: classpath:markdown/*
+
+#  字面量：普通的值  [ 数字，布尔值，字符串  ]
+k: v
+#  对象、Map（键值对）
+student:
+  name: qinjiang
+  age: 3
+  #  行内写法
+  student1: {name: qinjiang,age: 3}
+#  数组（ List、set ）
+pets:
+  - cat
+  - dog
+  - pig
+person:
+  name: qinjiang
+  age: 3
+  happy: false
+  birth: 2000/01/01
+  maps: { k1: v1,k2: v2 }
+  lists:
+    - code
+    - girl
+    - music
+  dog:
+    name: 旺财
+    age: 1

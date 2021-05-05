@@ -8,17 +8,38 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="016-springboot-redis" />
+        <module name="02-configration-yaml" />
         <module name="012-springboot-web-mybatis-transaction" />
-        <module name="002-springboot-springmvc" />
-        <module name="008-springboot-custom-configuration" />
         <module name="009-springboot-jsp" />
+        <module name="008-springboot-custom-configuration" />
+        <module name="002-springboot-springmvc" />
         <module name="011-springboot-web-mybatis" />
         <module name="010-springboot-web-mybatis" />
+        <module name="01-hello-springboot" />
         <module name="007-springboot-custom-configuration" />
         <module name="013-springboot-springmvc" />
         <module name="001-springboot-firs" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001-springboot-firs" target="1.8" />
+      <module name="002-springboot-springmvc" target="1.8" />
+      <module name="007-springboot-custom-configuration" target="1.8" />
+      <module name="008-springboot-custom-configuration" target="1.8" />
+      <module name="009-springboot-jsp" target="1.8" />
+      <module name="01-hello-boot" target="8" />
+      <module name="01-hello-springboot" target="1.8" />
+      <module name="010-springboot-web-mybatis" target="1.8" />
+      <module name="011-springboot-web-mybatis" target="1.8" />
+      <module name="012-springboot-web-mybatis-transaction" target="1.8" />
+      <module name="013-springboot-springmvc" target="1.8" />
+      <module name="016-springboot-redis" target="1.8" />
+      <module name="02-configration-yaml" target="1.8" />
+      <module name="itcast" target="1.8" />
+      <module name="kuang" target="8" />
+      <module name="kuang-study" target="1.8" />
+      <module name="SpringBoot-tutorial" target="8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -27,12 +48,16 @@
       <module name="007-springboot-custom-configuration" options="-parameters" />
       <module name="008-springboot-custom-configuration" options="-parameters" />
       <module name="009-springboot-jsp" options="-parameters" />
+      <module name="01-hello-boot" options="-parameters" />
+      <module name="01-hello-springboot" options="-parameters" />
       <module name="010-springboot-web-mybatis" options="-parameters" />
       <module name="011-springboot-web-mybatis" options="-parameters" />
       <module name="012-springboot-web-mybatis-transaction" options="-parameters" />
       <module name="013-springboot-springmvc" options="-parameters" />
       <module name="016-springboot-redis" options="-parameters" />
-      <module name="springboot" options="-parameters" />
+      <module name="02-configration-yaml" options="-parameters" />
+      <module name="kuang" options="-parameters" />
+      <module name="kuang-study" options="" />
     </option>
   </component>
 </project>
